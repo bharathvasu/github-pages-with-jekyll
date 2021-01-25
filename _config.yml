@@ -11,5 +11,5 @@ twitter username: vvbharathvasu # DO NOT include the @ character, or else the bu
 github username:  bharathvasu # DO NOT include the @ character, or else the build will fail!
 date: 2021-01-25
 
-show excerpts: true # set to false to remove excerpts on the homepage
+show excerpts: false # set to false to remove excerpts on the homepage
 theme: minima
